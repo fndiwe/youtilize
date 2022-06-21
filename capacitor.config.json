@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Youtilize",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
